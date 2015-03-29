@@ -1,0 +1,1 @@
+--host=arm-linux --cross-prefix=arm-linux-androideabi- --sysroot=/Users/HX/Software/dev/android/android-ndk-r10d/platforms/android-21/arch-arm --enable-pic --disable-pthread --disable-avs-input --disable-lavf-input --disable-ffms-input --disable-mp4-output --prefix=./dest/neon-v7a --extra-cflags=-march=armv7-a -mfloat-abi=softfp -mfpu=neon --extra-ldflags=-Wl,--fix-cortex-a8

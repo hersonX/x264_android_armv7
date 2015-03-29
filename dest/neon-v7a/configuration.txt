@@ -1,0 +1,15 @@
+Platform:   ARM
+System:     LINUX
+asm:        yes
+avs input:  no
+lavf input: no
+ffms input: no
+mp4 output: no
+pthread:    no
+debug:      no
+gprof:      no
+PIC:        yes
+shared:     no
+visualize:  no
+
+You can run 'make' or 'make fprofiled' now.
